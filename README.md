@@ -1,6 +1,6 @@
-# SimpleGoWebApp
+# GoWebTransactionApp
 
-SimpleGoWebApp is a basic web application developed using Go for the backend and JavaScript for the frontend. This project serves as an educational example of integrating a Go backend with a JavaScript frontend, focusing on creating a working Stripe payment method.
+GoWebTransactionApp is a basic web application developed using Go for the backend and JavaScript for the frontend. This project serves as an educational example of integrating a Go backend with a JavaScript frontend, focusing on creating a working Stripe payment method.
 
 ## Features
 - Go-based backend server
@@ -27,7 +27,7 @@ SimpleGoWebApp is a basic web application developed using Go for the backend and
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mkilic20/SimpleGoWebApp.git
+   git clone https://github.com/mkilic20/GoWebTransactionApp.git
    cd SimpleGoWebApp
    
 2. **Set up the backend:**
